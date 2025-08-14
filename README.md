@@ -4,9 +4,9 @@
 <img width="400"  align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFE7iHnedawtedokOkWd8Gh8mf-jpvvgH1PA&s"/>
 <p align="left"> <a href="https://twitter.com/mamtasingh1089" target="blank"><img src="https://img.shields.io/twitter/follow/mamtasingh1089?logo=twitter&style=for-the-badge" alt="mamtasingh1089" /></a> </p>
 
-- 🔭 I’m currently working on **reactjs project**
+- 🔭 I’m currently working on **JSec Project (for API Authencation and Security)**
 
-- 🌱 I’m currently learning **reactjs,GSAP**
+- 🌱 I’m currently learning **NextJs, Gsap, ThreeJs**
 
 - 💬 Ask me about **Frontend**
 
